@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Book",
+      "desc": "Life is difficultThis is a great truth, one of the greatest truths.* It is a great truth because once we truly see this truth, we transcend it. Once we truly know that life is difficult—once we truly understand and accept it—then life is no longer difficult. Because once it is accepted, the fact that life is difficult no longer matters.Most do not fully see this truth that life is difficult. Instead they moan more or less incessantly, noisily or subtly, about the enormity of their problems, their burdens, and their difficulties as if life were generally easy, as if life should be easy. They voice their belief, noisily or subtly, that their difficulties represent a unique kind of affliction that should not be and that has somehow been especially visited upon them, or else upon their families, their tribe, their class, their nation, their race or even their species, and not upon others. I know about this moaning because I have done my share.",
+      "postedby": "Dulton",
+      "favourite": true,
+      "category": "Religion",
+      "id": 1
+    },
+    {
+      "name": "C# Language",
+      "desc": "nthis chapter, you’ll deepen your understanding of the C# programming language by examining anumber of advanced (but still quite useful) syntactic constructs. To begin, you’ll learn how to construct and use an indexer method. This C# mechanism enables you to build custom types that provide access to internal subtypes using an array-like syntax. Once you learn how to build an indexer method, you’ll then examine howto overload various operators (+, –, <, >,and so forth), and create custom explicit and implicit conversion routines for your types (and you’ll learn why you may wish to do so). The later half of this chapter examines asmall set of lesser used (but nonetheless interesting) C# keywords. For example, you’ll learn how to programmatically account for overflow and underflow conditions using the checked and unchecked keywords, as well as how to create an “unsafe” code context in order to directly manipulate pointer types using C#. The chapter wraps up with an examination of the role of C# preprocessor directives.",
+      "postedby": "Dulton",
+      "favourite": true,
+      "category": "Technology",
+      "id": 2
+    },
+    {
+      "name": "Another Book",
+      "desc": "So it is that the quality of discipline afforded by loving parents is superior to the discipline of unloving parents. But this is just the beginning. In taking the time to observe and to think about their children's needs, loving parents will frequently agonize over the decisions to be made, and will, in a very real sense, suffer along with their children. The children are not blind to this. They perceive it when their parents are willing to suffer with them, and although they may not respond with immediate gratitude, they will learn also to suffer.  'If my parents are willing to suffer with me, they will tell themselves, then suffering must not be so bad, and I should be willing to suffer with myself. This is the beginning of self-disciplinethis chapter, you’ll deepen your understanding of the C# programming language by examining anumber of advanced (but still quite useful) syntactic constructs. To begin, you’ll learn how to construct and use an indexer method. This C# mechanism enables you to build custom types that provide access to internal subtypes using an array-like syntax. Once you learn how to build an indexer method, you’ll then examine howto overload various operators (+, –, <, >,and so forth), and create custom explicit and implicit conversion routines for your types (and you’ll learn why you may wish to do so). The later half of this chapter examines asmall set of lesser used (but nonetheless interesting) C# keywords. For example, you’ll learn how to programmatically account for overflow and underflow conditions using the checked and unchecked keywords, as well as how to create an “unsafe” code context in order to directly manipulate pointer types using C#. The chapter wraps up with an examination of the role of C# preprocessor directives.",
+      "postedby": "Dulton",
+      "favourite": true,
+      "category": "Technology",
+      "id": 3
+    }
+  ]
+}
